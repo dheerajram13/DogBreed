@@ -1,6 +1,6 @@
 # DogBreed
 
-A website to fetch dog's image based on breed.
+A website to fetch dog's image based on their breed name.
 
 ## Getting Started
 
